@@ -39,11 +39,11 @@
 
    **f. Results**
       - **ROC AUC Score**: Achieved an ROC AUC Score of 0.96.
-      - **Classification Report**: \
+      - **Classification Report**: 
       <img src="results/classification report.png" alt="Classification Report" width="400"/>
-      - **Confusion Matrix**: \
+      - **Confusion Matrix**: 
       <img src="results/confusion matrix.png" alt="Confusion Matrix" width="400"/>
-      - **ROC Curve**: Emphasized the importance of more area under the curve as indicative of a better model.\
+      - **ROC Curve**: Emphasized the importance of more area under the curve as indicative of a better model.
                        <img src="results/roc.png" alt="ROC" width="400"/>
 
 ## Middle-Middle Pitches
@@ -61,7 +61,7 @@ As seen from the figures below, **Relative Pitch Height** and **Strikes** are th
 
 The provided bar charts detail how swing decisions vary across different ball-strike combinations, highlighting changes in batting behavior under various count pressures. This information is invaluable for coaches, as it underscores the need for tailored training focusing on pitch recognition and strategic decision-making. By understanding and teaching how to interpret these key factors, coaches can effectively enhance a batter’s approach at the plate, particularly in high-pressure counts, improving their overall performance and on-base success.
 
-<img src="results/feature importance.png" alt="Feature Importance" width="400"/>/
+<img src="results/feature importance.png" alt="Feature Importance" width="400"/>
 <img src="results/class distributions.png" alt="Class Distributions" width="600"/>
 
 ## Swing Probability and Player Metrics
