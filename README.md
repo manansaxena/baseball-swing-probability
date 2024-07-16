@@ -39,10 +39,8 @@
 
    **f. Results**
       - **ROC AUC Score**: Achieved an ROC AUC Score of 0.96.
-      - **Classification Report**: 
-      <img src="results/classification report.png" alt="Classification Report" width="400"/>
-      - **Confusion Matrix**: 
-      <img src="results/confusion matrix.png" alt="Confusion Matrix" width="400"/>
+      - **Classification Report**: <img src="results/classification report.png" alt="Classification Report" width="400"/>
+      - **Confusion Matrix**: <img src="results/confusion matrix.png" alt="Confusion Matrix" width="400"/>
       - **ROC Curve**: Emphasized the importance of more area under the curve as indicative of a better model.
                        <img src="results/roc.png" alt="ROC" width="400"/>
 
